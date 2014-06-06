@@ -1,0 +1,19 @@
+{
+  "name": "grunt-doctest",
+  "version": "0.0.0",
+  "description": "grunt plugin for https://github.com/davidchambers/doctest",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "author": "Paolo del Mundo",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  },
+  "dependencies": {
+    "doctest": "^0.6.1",
+    "glob": "^4.0.2",
+    "lodash": "^2.4.1"
+  }
+}
