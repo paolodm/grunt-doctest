@@ -7,7 +7,7 @@
 // > toFahrenheit(0)
 // 32
 // > toFahrenheit(100)
-// 211
+// 212
 function toFahrenheit(degreesCelsius) {
     return degreesCelsius * 9 / 5 + 32;
 }

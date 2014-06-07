@@ -6,9 +6,8 @@ module.exports = function(grunt) {
         doctest: {
             test: {
                 options: {
-                    files: ['test/toFarenheit.js'],
                     module: 'commonjs',
-                    glob: '**/*'
+                    glob: '{test/**/*.js,tasks/**/*.js}'
                 }
             }
         }
