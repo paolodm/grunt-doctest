@@ -62,12 +62,14 @@ grunt.initConfig({
                 glob: '{test/**/*.js,tasks/**/*.js}'
             }
         }
-    }```
+    }
+```
 
 
 ## Release History
 
  * 2014-06-06   v1.0.0   First official release of grunt-doctest.
+
 ---
 
 Task submitted by [Paolo del Mundo](http://paolodm.com/)
