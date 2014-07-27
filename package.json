@@ -1,6 +1,6 @@
 {
   "name": "grunt-doctest",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "grunt plugin for https://github.com/davidchambers/doctest",
   "scripts": {
     "test": "grunt test"
