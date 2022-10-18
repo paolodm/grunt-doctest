@@ -13,7 +13,7 @@
   "dependencies": {
     "chalk": "^0.4.0",
     "doctest": "^0.6.1",
-    "glob": "^4.0.2",
+    "glob": "^5.0.15",
     "lodash": "^2.4.1"
   }
 }
